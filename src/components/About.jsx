@@ -83,8 +83,8 @@ const About = () => {
         >
            <div className="absolute inset-0 bg-gradient-to-br from-accent/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
            <img 
-            src="src\images\profilepic.png"
-            //src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amtqMnl0dWNkODNqMmVqYXFpM3Zmb2kxcjR1bnlja3dhd240aWxkdCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Maslv9XBFXQMyFogjG/giphy.gif"
+            // src="https://drive.google.com/file/d/1zhEtUqroEivRrsyw_GFQOOW-6NUswMLc/view?usp=drive_link"
+            src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amtqMnl0dWNkODNqMmVqYXFpM3Zmb2kxcjR1bnlja3dhd240aWxkdCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Maslv9XBFXQMyFogjG/giphy.gif"
             alt="Profile"
             className="w-full h-full object-cover rounded-2xl transform 
                     group-hover:scale-105 group-hover:brightness-110 
